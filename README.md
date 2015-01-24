@@ -15,7 +15,7 @@ run_analysis.R script does the following
 2. If no "UCI HAR Dataset" is present - download data from link provided, and unzip result in working directory
 3. Loads datasets in R
 4. Creates names for variables and binds **subject** and **activity_name** columns
-5. Extracted only the measurements on the mean and standard deviation for each measurement
+5. Extracted only the measurements on the mean and standard deviation for each measurement (I desided to first subset and then merge datasets, so less data are stored in memory)
 6. Merged the training and the test sets to create one data set
 7. From the data set in step 6, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 8. Saves resulting dataset in *"result.txt"* file
