@@ -38,6 +38,8 @@ The set of variables that were estimated from these signals are:
 Then observations are grupped by subject and by activity.
 Average values of variables are calculated for each group and saved to "result.txt"
 
+As we have 30 subjects and 6 activities, result dataset will include 30x6=180 rows
+
 ####variables in result dataset
 
 |name|units|description|
