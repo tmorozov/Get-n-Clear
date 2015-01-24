@@ -1,7 +1,7 @@
 # Get-n-Clear
 coursera "Getting &amp; Cleaning Data Course" project
 
-Input data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: 
+Input data for script is collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: 
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
