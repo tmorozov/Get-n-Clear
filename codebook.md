@@ -43,7 +43,7 @@ Average values of variables are calculated for each group and saved to "result.t
 |name|units|description|
 |----|----------|-----------|
 |subject|int|identifies the subject who performed the activity (range 1:30)|
-|activity_name|chr|activity name|
+|activity_name|chr|activity name (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)|
 |tBodyAcc.mean...X|num|average of tBodyAcc X mean|
 |tBodyAcc.mean...Y|num|average of tBodyAcc Y mean|
 |tBodyAcc.mean...Z|num|average of tBodyAcc Z mean|
