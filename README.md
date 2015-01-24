@@ -9,7 +9,8 @@ Input data could be downloaded from:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-run_analysis.R script does the following:
+run_analysis.R script does the following
+
 1. Checks if subdirectory "UCI HAR Dataset" is present in working directory
 2. If no "UCI HAR Dataset" is present - download data from link provided, and unzip result in working directory
 3. Loads datasets in R
